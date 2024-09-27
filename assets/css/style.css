@@ -678,7 +678,7 @@ body.nav-active { overflow: hidden; }
   #CTA
 \*-----------------------------------*/
 
-.cta { background-color: var(--charcoal); }
+.cta { background-color: var(--charcoal)}
 
 .cta .container {
   padding-block: 100px 60px;
